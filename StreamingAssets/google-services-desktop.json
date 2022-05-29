@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "834583868542-tuon8f9btad6vdpgufs07onnotvhek0p.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwxXe8w_3eJ6lAHQ4yPe0sWF_JXEOShWo"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:834583868542:ios:49ba46bc392670a830142f", 
+        "android_client_info": {
+          "package_name": "com.afrocyberpunk.seashellvr"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "seashellvr-ff5ec.appspot.com", 
+    "project_id": "seashellvr-ff5ec", 
+    "firebase_url": "https://seashellvr-ff5ec.firebaseio.com", 
+    "project_number": "834583868542"
+  }
+}
